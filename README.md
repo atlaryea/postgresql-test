@@ -95,7 +95,7 @@ npm run init-db
 
 ## Security
 
-⚠️ **Important**: Never commit your `.env` file with real credentials. Always:
+**Important**: Never commit your `.env` file with real credentials. Always:
 
 - Add `.env` to `.gitignore`
 - Use `.env.example` as a template for team members
